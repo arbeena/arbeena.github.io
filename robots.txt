@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: arbeena.github.io/sitemap.xml
